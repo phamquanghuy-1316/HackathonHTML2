@@ -13,7 +13,7 @@ let Events=[
     },
     {
         name: "xem duyệt binh Việt Nam",
-        date: "2025-2-9",
+        date: "2025-02-09",
         address: "Hà Nội",
         host: "Ông nội"
     }
